@@ -8,7 +8,7 @@
  * fs , open...
  ## Modo de usar 
  
- 1. Quando o programa for executado, imediadamente, abrirá em seu browser uma página. Nela contém um formulario básico para cadastro dos números que se pretende enviar a mensagem , e claro, uma parte para colocar a mensagem. Além de outras opções como colocar o caminho de um arquivo para enviar junto com a mensagem.
+ 1. Quando o programa for executado, imediatamente, abrirá em seu browser uma página. Nela contém um formulario básico para cadastro dos números que se pretende enviar a mensagem , e claro, uma parte para colocar a mensagem. Além de outras opções como colocar o caminho de um arquivo para enviar junto com a mensagem.
  2. Após enviar o formulário o usúario será enviado para outra instacia do browser. Lá o whatsapp web abrirá automaticamente.
  3. Quando o site for iniciado o usúario só precisará ler o qrcode na tela para autenticação. E pronto, agora o programa ira começar a enviar a mensagem para todos contatos cadastrados.
  
