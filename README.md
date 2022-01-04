@@ -12,5 +12,7 @@
  2. Após enviar o formulário o usúario será enviado para outra instacia do browser. Lá o whatsapp web abrirá automaticamente.
  3. Quando o site for iniciado o usúario só precisará ler o qrcode na tela para autenticação. E pronto, agora o programa ira começar a enviar a mensagem para todos contatos cadastrados.
 
- 
+### Observações 
+___
+Cada click é previamente colocado no código, como também, o tempo que ele ira clicar e digitar. Por isso, tenha em mente que quando maior o arquivo (se no caso quiser enviar um arquivo) deverá aumentar o tempo de execução ou delay dos comandos. Há bugs e falhas. Não otimizei o programa. Não há um tratamento de erros efetivos. A versão beta do whatsapp atrasa a execução do código de maneira absurda. 
  
